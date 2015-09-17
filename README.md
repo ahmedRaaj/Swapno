@@ -1,5 +1,5 @@
 # Swapno
-My university project
+My university project( Completete Ecommerce site based on Java EE, Servlet) courtesy netbeans affablebean tutorial. 
 
 To successfully lunch this, it requirs Glassfish server. 
 it has glassfish-resources.xml so jdbc resources and connection pool will be created on the fly. 
